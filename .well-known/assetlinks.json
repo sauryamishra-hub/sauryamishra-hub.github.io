@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.use_as_origin"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.sauryamishra.lena",
+    "sha256_cert_fingerprints": ["BD:48:75:C8:38:AF:22:3D:63:28:AB:D3:02:BE:22:B6:3A:87:DD:90:6E:01:9C:7E:4A:56:E6:3A:C6:61:3B:FA"]
+  }
+}]
